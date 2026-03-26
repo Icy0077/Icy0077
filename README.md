@@ -1,4 +1,10 @@
-## Hi there 👋
+Name: Shahzad Ahmad
+Branch: B.Tech (Cloud Computing)
+Year: 1st Year
+University: VIT Bhopal University
+
+I am currently learning programming and digital literacy
+skills to build a strong technical foundation.
 
 <!--
 **Icy0077/Icy0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
